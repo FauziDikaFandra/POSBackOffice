@@ -1,0 +1,7 @@
+1. maintenance saat selesai langsung ke record selanjutnya
+2. focus ke list berikutnya
+3. report total pembayaran di cash register ada digambar UMUM
+4. view voucher sold detail eror saat view
+5. view voucher sold report tidak muncul semua hanya awal sampai akhir
+6. xrediang report dan xeset ada di UMUM
+7. setting user login POS dan POS Back office di testing

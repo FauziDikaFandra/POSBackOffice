@@ -1,0 +1,28 @@
+USE [POS_SERVER_HISTORY]
+GO
+
+/****** Object:  Table [dbo].[User_Groups_Form]    Script Date: 05/09/2017 17:09:12 ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+SET ANSI_PADDING ON
+GO
+
+CREATE TABLE [dbo].[User_Groups_Form](
+	[Group_ID] [char](3) NOT NULL,
+	[Group_Form] [nvarchar](50) NOT NULL,
+ CONSTRAINT [PK_User_Groups_Form] PRIMARY KEY CLUSTERED 
+(
+	[Group_ID] ASC,
+	[Group_Form] ASC
+)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+GO
+
+SET ANSI_PADDING OFF
+GO
+

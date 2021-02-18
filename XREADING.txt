@@ -1,0 +1,25 @@
+c0
+
+X-Reading Shift: 1 On-Line
+Branch     : MAL KELAPA GADING
+Cashier ID : 2514 - 104
+Date       : 03/May/2017
+------------------------------
+
+Modal         : Rp.    250,000
+
+CASH          : Rp.  2,204,150
+BCA DEBIT     : Rp.  1,279,400
+MANDIRI VISA/ : Rp.    410,000
+NIAGA VISA/MA : Rp.    899,000
+------------------------------
+TOTAL        : Rp.   4,792,550
+Over Voucher : Rp.           0
+------------------------------
+X-Reading    : Rp.   4,792,550
+
+Discount     : Rp.           0
+Return       : Rp.           0
+
+d
+i

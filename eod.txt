@@ -1,0 +1,15 @@
+usp sales analisys
+ST_SalesSBU_Month_2
+
+
+spp_EODBranch_SaveHistory_PAID
+spp_EODBranch_SetEODComplete
+spp_EODBranch_SaveHistory_SALES_TRANSACTIONS
+spp_EODBranch_SaveHistory_CASH
+spp_EODbranch_SetDate
+spp_EODBranch_SaveHistory_SALES_TRANSACTION_DETAILS
+spp_GetCashRegistersPivot
+spp_GetZResetStatus
+fn_syspolicy_is_automation_enabled
+spp_GetProcessDate
+spp_EODbranch_GetProcessStatus

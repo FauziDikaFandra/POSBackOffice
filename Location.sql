@@ -1,0 +1,21 @@
+USE [POS_SERVER]
+GO
+
+/****** Object:  Table [dbo].[Location]    Script Date: 10/24/2018 10:24:44 ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE TABLE [dbo].[Location](
+	[Location] [int] NOT NULL,
+	[Location_Name] [nvarchar](50) NULL,
+ CONSTRAINT [PK_Location] PRIMARY KEY CLUSTERED 
+(
+	[Location] ASC
+)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+GO
+
